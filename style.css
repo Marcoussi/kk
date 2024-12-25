@@ -4,8 +4,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ffe6f2;
-    color: #ff69b4;
+    background-color: #e5dffe;
+    color: #4a4fed;
     text-align: center;
 }
 
@@ -31,10 +31,10 @@ body {
 
 /* En-tête */
 header {
-    background: #ffb6c1;
+    background: #614fff;
     color: #fff;
     padding: 1rem 0;
-    border-bottom: 5px solid #ff69b4;
+    border-bottom: 5px solid #f80000;
     text-shadow: 1px 1px 2px #d83378;
 }
 
@@ -86,7 +86,7 @@ a {
 }
 
 a:hover {
-    color: #d83378;
+    color: #b50000;
 }
 
 /* Pied de page */
